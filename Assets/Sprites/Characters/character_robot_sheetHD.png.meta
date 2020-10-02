@@ -1,0 +1,2432 @@
+fileFormatVersion: 2
+guid: 367f8473b714d5d4181b78a2a0ea19a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2159122620527172907
+    second: character_robot_sheetHD_0
+  - first:
+      213: 7283230032301310445
+    second: character_robot_sheetHD_1
+  - first:
+      213: 7972941354946747891
+    second: character_robot_sheetHD_2
+  - first:
+      213: 2026456494228189053
+    second: character_robot_sheetHD_3
+  - first:
+      213: -2566700244551572078
+    second: character_robot_sheetHD_4
+  - first:
+      213: 4248327649225697225
+    second: character_robot_sheetHD_5
+  - first:
+      213: -7539803788194679589
+    second: character_robot_sheetHD_6
+  - first:
+      213: 7885882604589331586
+    second: character_robot_sheetHD_7
+  - first:
+      213: 4393646546099367849
+    second: character_robot_sheetHD_8
+  - first:
+      213: -3815896393653349259
+    second: character_robot_sheetHD_9
+  - first:
+      213: 6050834939437065543
+    second: character_robot_sheetHD_10
+  - first:
+      213: 8689792079485565466
+    second: character_robot_sheetHD_11
+  - first:
+      213: -8533452641631311284
+    second: character_robot_sheetHD_12
+  - first:
+      213: 1431988335652654385
+    second: character_robot_sheetHD_13
+  - first:
+      213: 1996238048859515636
+    second: character_robot_sheetHD_14
+  - first:
+      213: -2247029510813174319
+    second: character_robot_sheetHD_15
+  - first:
+      213: -675131730073439872
+    second: character_robot_sheetHD_16
+  - first:
+      213: -7368806439717860334
+    second: character_robot_sheetHD_17
+  - first:
+      213: -1116475757307082582
+    second: character_robot_sheetHD_18
+  - first:
+      213: 9057988786902579722
+    second: character_robot_sheetHD_19
+  - first:
+      213: 4110361275182450740
+    second: character_robot_sheetHD_20
+  - first:
+      213: -3308133084557193228
+    second: character_robot_sheetHD_21
+  - first:
+      213: -783090257120187436
+    second: character_robot_sheetHD_22
+  - first:
+      213: -2851621245534088838
+    second: character_robot_sheetHD_23
+  - first:
+      213: -3856701996747387992
+    second: character_robot_sheetHD_24
+  - first:
+      213: 5551906198587459876
+    second: character_robot_sheetHD_25
+  - first:
+      213: 5450019921779499882
+    second: character_robot_sheetHD_26
+  - first:
+      213: -379304903695283010
+    second: character_robot_sheetHD_27
+  - first:
+      213: 825615503371219035
+    second: character_robot_sheetHD_28
+  - first:
+      213: 1971336017781467471
+    second: character_robot_sheetHD_29
+  - first:
+      213: 1325055942693160519
+    second: character_robot_sheetHD_30
+  - first:
+      213: 6444276881289278981
+    second: character_robot_sheetHD_31
+  - first:
+      213: 3968202726995915475
+    second: character_robot_sheetHD_32
+  - first:
+      213: -7472051999010572372
+    second: character_robot_sheetHD_33
+  - first:
+      213: 7408829463142330026
+    second: character_robot_sheetHD_34
+  - first:
+      213: -6600583515161163342
+    second: character_robot_sheetHD_35
+  - first:
+      213: -7248408705299148755
+    second: character_robot_sheetHD_36
+  - first:
+      213: 7592773256960108613
+    second: character_robot_sheetHD_37
+  - first:
+      213: 2528506631362413712
+    second: character_robot_sheetHD_38
+  - first:
+      213: 2777028403978074070
+    second: character_robot_sheetHD_39
+  - first:
+      213: 6512328879283960868
+    second: character_robot_sheetHD_40
+  - first:
+      213: 5645084888299706781
+    second: character_robot_sheetHD_41
+  - first:
+      213: -669805441606526046
+    second: character_robot_sheetHD_42
+  - first:
+      213: 5046189231436954041
+    second: character_robot_sheetHD_43
+  - first:
+      213: -8787620667291385534
+    second: character_robot_sheetHD_44
+  - first:
+      213: -7366200011981672565
+    second: character_robot_sheetHD_45
+  - first:
+      213: -1989266700505860564
+    second: character_robot_sheetHD_46
+  - first:
+      213: -6551923605440160693
+    second: character_robot_sheetHD_47
+  - first:
+      213: -6769945077001595711
+    second: character_robot_sheetHD_48
+  - first:
+      213: -4464615144251855983
+    second: character_robot_sheetHD_49
+  - first:
+      213: -3882406448703721654
+    second: character_robot_sheetHD_50
+  - first:
+      213: 268745347904986001
+    second: character_robot_sheetHD_51
+  - first:
+      213: -384917241463851537
+    second: character_robot_sheetHD_52
+  - first:
+      213: 2459887163417313448
+    second: character_robot_sheetHD_53
+  - first:
+      213: -2707596528931847470
+    second: character_robot_sheetHD_54
+  - first:
+      213: 7609245095599072434
+    second: character_robot_sheetHD_55
+  - first:
+      213: -7484929675826278464
+    second: character_robot_sheetHD_56
+  - first:
+      213: -8199754054736776595
+    second: character_robot_sheetHD_57
+  - first:
+      213: 5710588091323898639
+    second: character_robot_sheetHD_58
+  - first:
+      213: 6787101275998917744
+    second: character_robot_sheetHD_59
+  - first:
+      213: 4636149256420364653
+    second: character_robot_sheetHD_60
+  - first:
+      213: 892335147921929805
+    second: character_robot_sheetHD_61
+  - first:
+      213: 1444423018336864953
+    second: character_robot_sheetHD_62
+  - first:
+      213: -4367987371328747578
+    second: character_robot_sheetHD_63
+  - first:
+      213: -2152390047959004449
+    second: character_robot_sheetHD_64
+  - first:
+      213: 5813792212730549037
+    second: character_robot_sheetHD_65
+  - first:
+      213: -1563359986872108937
+    second: character_robot_sheetHD_66
+  - first:
+      213: -563533705382086784
+    second: character_robot_sheetHD_67
+  - first:
+      213: 5443862768183502834
+    second: character_robot_sheetHD_68
+  - first:
+      213: -4584178162624347495
+    second: character_robot_sheetHD_69
+  - first:
+      213: -1882351279584145800
+    second: character_robot_sheetHD_70
+  - first:
+      213: 7712108686403445898
+    second: character_robot_sheetHD_71
+  - first:
+      213: -4652469860645987480
+    second: character_robot_sheetHD_72
+  - first:
+      213: 25604549688805048
+    second: character_robot_sheetHD_73
+  - first:
+      213: -2012615558601605125
+    second: character_robot_sheetHD_74
+  - first:
+      213: -292159412742538414
+    second: character_robot_sheetHD_75
+  - first:
+      213: -1052943415885699159
+    second: character_robot_sheetHD_76
+  - first:
+      213: 8461818444210365138
+    second: character_robot_sheetHD_77
+  - first:
+      213: 2393509654574503512
+    second: character_robot_sheetHD_78
+  - first:
+      213: 7272488053968020925
+    second: character_robot_sheetHD_79
+  - first:
+      213: -1833595844591458909
+    second: character_robot_sheetHD_80
+  - first:
+      213: 5564469522477567156
+    second: character_robot_sheetHD_81
+  - first:
+      213: 8935540339198511630
+    second: character_robot_sheetHD_82
+  - first:
+      213: -5580093202638203069
+    second: character_robot_sheetHD_83
+  - first:
+      213: -4267729105195257832
+    second: character_robot_sheetHD_84
+  - first:
+      213: 3387872003903912351
+    second: character_robot_sheetHD_85
+  - first:
+      213: -6889298365899457790
+    second: character_robot_sheetHD_86
+  - first:
+      213: -5217370442236562325
+    second: character_robot_sheetHD_87
+  - first:
+      213: -2746044663853638458
+    second: character_robot_sheetHD_88
+  - first:
+      213: -3385773324693069329
+    second: character_robot_sheetHD_89
+  - first:
+      213: -7657523200745125896
+    second: character_robot_sheetHD_90
+  - first:
+      213: 6679031483587581298
+    second: character_robot_sheetHD_91
+  - first:
+      213: 8823052559173703105
+    second: character_robot_sheetHD_92
+  - first:
+      213: 9191989261795756588
+    second: character_robot_sheetHD_93
+  - first:
+      213: 7039250390518543950
+    second: character_robot_sheetHD_94
+  - first:
+      213: -1230734443222090793
+    second: character_robot_sheetHD_95
+  - first:
+      213: -7870809371885766418
+    second: character_robot_sheetHD_96
+  - first:
+      213: -6192068586183485376
+    second: character_robot_sheetHD_97
+  - first:
+      213: 7324595967940522576
+    second: character_robot_sheetHD_98
+  - first:
+      213: 5583828633505386480
+    second: character_robot_sheetHD_99
+  - first:
+      213: -49277806145174427
+    second: character_robot_sheetHD_100
+  - first:
+      213: 3089320921786140130
+    second: character_robot_sheetHD_101
+  - first:
+      213: 7378412485649468357
+    second: character_robot_sheetHD_102
+  - first:
+      213: 464422892362189603
+    second: character_robot_sheetHD_103
+  - first:
+      213: 4191198420940331925
+    second: character_robot_sheetHD_104
+  - first:
+      213: 5598495144078065040
+    second: character_robot_sheetHD_105
+  - first:
+      213: 2691770319240720370
+    second: character_robot_sheetHD_106
+  - first:
+      213: 2207620768339162190
+    second: character_robot_sheetHD_107
+  - first:
+      213: 459375352996135519
+    second: character_robot_sheetHD_108
+  - first:
+      213: -1777090091765306791
+    second: character_robot_sheetHD_109
+  - first:
+      213: 8853219773492255063
+    second: character_robot_sheetHD_110
+  - first:
+      213: -5293043574537211967
+    second: character_robot_sheetHD_111
+  - first:
+      213: 8907803430220252884
+    second: character_robot_sheetHD_112
+  - first:
+      213: -1979203381377209265
+    second: character_robot_sheetHD_113
+  - first:
+      213: -1980718780340149565
+    second: character_robot_sheetHD_114
+  - first:
+      213: 4133922738521609992
+    second: character_robot_sheetHD_115
+  - first:
+      213: 1516527509994134098
+    second: character_robot_sheetHD_116
+  - first:
+      213: 6741752126695857955
+    second: character_robot_sheetHD_117
+  - first:
+      213: -1471144845844583132
+    second: character_robot_sheetHD_118
+  - first:
+      213: 99562464611750301
+    second: character_robot_sheetHD_119
+  - first:
+      213: 9022407495512927231
+    second: character_robot_sheetHD_120
+  - first:
+      213: -3940779731877701212
+    second: character_robot_sheetHD_121
+  - first:
+      213: -6410346514887067967
+    second: character_robot_sheetHD_122
+  - first:
+      213: -3592582302474966035
+    second: character_robot_sheetHD_123
+  - first:
+      213: 4710195055310479512
+    second: character_robot_sheetHD_124
+  - first:
+      213: -1892070374939761720
+    second: character_robot_sheetHD_125
+  - first:
+      213: -1554012374054908713
+    second: character_robot_sheetHD_126
+  - first:
+      213: 3694019703009018480
+    second: character_robot_sheetHD_127
+  - first:
+      213: -4637979327561939230
+    second: character_robot_sheetHD_128
+  - first:
+      213: -3423789354894930380
+    second: character_robot_sheetHD_129
+  - first:
+      213: 3597215077711245799
+    second: character_robot_sheetHD_130
+  - first:
+      213: -7390022916663190033
+    second: character_robot_sheetHD_131
+  - first:
+      213: -4161026251759217767
+    second: character_robot_sheetHD_132
+  - first:
+      213: -1378174594001038271
+    second: character_robot_sheetHD_133
+  - first:
+      213: 3882784500697391614
+    second: character_robot_sheetHD_134
+  - first:
+      213: -1054933827226726076
+    second: character_robot_sheetHD_135
+  - first:
+      213: 4438207526528589004
+    second: character_robot_sheetHD_136
+  - first:
+      213: -942814631240333295
+    second: character_robot_sheetHD_137
+  - first:
+      213: 8434525252563905556
+    second: character_robot_sheetHD_138
+  - first:
+      213: 3609224835742386955
+    second: character_robot_sheetHD_139
+  - first:
+      213: 8303794917895924513
+    second: character_robot_sheetHD_140
+  - first:
+      213: 2539659105817138160
+    second: character_robot_sheetHD_141
+  - first:
+      213: -1171950138012673827
+    second: character_robot_sheetHD_142
+  - first:
+      213: 4985537427268040487
+    second: character_robot_sheetHD_143
+  - first:
+      213: 5367337162683520127
+    second: character_robot_sheetHD_144
+  - first:
+      213: -1482947621679749279
+    second: character_robot_sheetHD_145
+  - first:
+      213: 6451965926082618463
+    second: character_robot_sheetHD_146
+  - first:
+      213: -6179159039419648046
+    second: character_robot_sheetHD_147
+  - first:
+      213: -8186240586381887619
+    second: character_robot_sheetHD_148
+  - first:
+      213: 525579612061852960
+    second: character_robot_sheetHD_149
+  - first:
+      213: 3790121896439382307
+    second: character_robot_sheetHD_150
+  - first:
+      213: -5322298366485637315
+    second: character_robot_sheetHD_151
+  - first:
+      213: 4521531168415663721
+    second: character_robot_sheetHD_152
+  - first:
+      213: 7258561110461841542
+    second: character_robot_sheetHD_153
+  - first:
+      213: 7131000371949902607
+    second: character_robot_sheetHD_154
+  - first:
+      213: -3435718841042882104
+    second: character_robot_sheetHD_155
+  - first:
+      213: -3995634216703474129
+    second: character_robot_sheetHD_156
+  - first:
+      213: -6442558026334880806
+    second: character_robot_sheetHD_157
+  - first:
+      213: 5234724193681644196
+    second: character_robot_sheetHD_158
+  - first:
+      213: -7034626130390808492
+    second: character_robot_sheetHD_159
+  - first:
+      213: 2199332119853719533
+    second: character_robot_sheetHD_160
+  - first:
+      213: 7619576484681181568
+    second: character_robot_sheetHD_161
+  - first:
+      213: 2877432876607267429
+    second: character_robot_sheetHD_162
+  - first:
+      213: -3632193303258390162
+    second: character_robot_sheetHD_163
+  - first:
+      213: 4348197706428892530
+    second: character_robot_sheetHD_164
+  - first:
+      213: 7518536853856202728
+    second: character_robot_sheetHD_165
+  - first:
+      213: 3742550590036567158
+    second: character_robot_sheetHD_166
+  - first:
+      213: -160800534195711456
+    second: character_robot_sheetHD_167
+  - first:
+      213: 6114267013247665176
+    second: character_robot_sheetHD_168
+  - first:
+      213: -7305597582184852809
+    second: character_robot_sheetHD_169
+  - first:
+      213: 3510092477008775981
+    second: character_robot_sheetHD_170
+  - first:
+      213: 3955616277891377711
+    second: character_robot_sheetHD_171
+  - first:
+      213: -384158527206398459
+    second: character_robot_sheetHD_172
+  - first:
+      213: -210816079426442209
+    second: character_robot_sheetHD_173
+  - first:
+      213: 6446669975422567896
+    second: character_robot_sheetHD_174
+  - first:
+      213: 6104110492440703430
+    second: character_robot_sheetHD_175
+  - first:
+      213: -1484203241162161571
+    second: character_robot_sheetHD_176
+  - first:
+      213: 8903385272560656334
+    second: character_robot_sheetHD_177
+  - first:
+      213: 1292239605725145087
+    second: character_robot_sheetHD_178
+  - first:
+      213: 8744255811993241626
+    second: character_robot_sheetHD_179
+  - first:
+      213: 4893885720131512545
+    second: character_robot_sheetHD_180
+  - first:
+      213: -8587317954493161070
+    second: character_robot_sheetHD_181
+  - first:
+      213: -5721252886850508976
+    second: character_robot_sheetHD_182
+  - first:
+      213: 7433622234841539103
+    second: character_robot_sheetHD_183
+  - first:
+      213: 3790834510419258767
+    second: character_robot_sheetHD_184
+  - first:
+      213: 9047865797798494499
+    second: character_robot_sheetHD_185
+  - first:
+      213: -7631031977716201863
+    second: character_robot_sheetHD_186
+  - first:
+      213: 6376604644226320358
+    second: character_robot_sheetHD_187
+  - first:
+      213: 7016569793793866840
+    second: character_robot_sheetHD_188
+  - first:
+      213: -6955206641185436066
+    second: character_robot_sheetHD_189
+  - first:
+      213: -8646599361962074041
+    second: character_robot_sheetHD_190
+  - first:
+      213: -5992674081217653995
+    second: character_robot_sheetHD_191
+  - first:
+      213: 6876106545447965382
+    second: character_robot_sheetHD_192
+  - first:
+      213: 7325416417821690236
+    second: character_robot_sheetHD_193
+  - first:
+      213: 2081477910858143908
+    second: character_robot_sheetHD_194
+  - first:
+      213: -328712331542712513
+    second: character_robot_sheetHD_195
+  - first:
+      213: 1617936924026660890
+    second: character_robot_sheetHD_196
+  - first:
+      213: 7126092704798680136
+    second: character_robot_sheetHD_197
+  - first:
+      213: -531253316821818897
+    second: character_robot_sheetHD_198
+  - first:
+      213: 8075435935662231858
+    second: character_robot_sheetHD_199
+  - first:
+      213: -2029053294810448211
+    second: character_robot_sheetHD_200
+  - first:
+      213: 4213172080593368663
+    second: character_robot_sheetHD_201
+  - first:
+      213: -1186065694401461410
+    second: character_robot_sheetHD_202
+  - first:
+      213: -4165262153215826109
+    second: character_robot_sheetHD_203
+  - first:
+      213: -3952784527993128665
+    second: character_robot_sheetHD_204
+  - first:
+      213: 6963004996528106413
+    second: character_robot_sheetHD_205
+  - first:
+      213: -7083907269948692562
+    second: character_robot_sheetHD_206
+  - first:
+      213: -6833273002453535183
+    second: character_robot_sheetHD_207
+  - first:
+      213: -805836763526820988
+    second: character_robot_sheetHD_208
+  - first:
+      213: 2349334852094248837
+    second: character_robot_sheetHD_209
+  - first:
+      213: 4218332173376015863
+    second: character_robot_sheetHD_210
+  - first:
+      213: 8294345674010717886
+    second: character_robot_sheetHD_211
+  - first:
+      213: 8479713696151958563
+    second: character_robot_sheetHD_212
+  - first:
+      213: -5719296498333001963
+    second: character_robot_sheetHD_213
+  - first:
+      213: -8095617954984665792
+    second: character_robot_sheetHD_214
+  - first:
+      213: -3853249515601533590
+    second: character_robot_sheetHD_215
+  - first:
+      213: 4162605373401896423
+    second: character_robot_sheetHD_216
+  - first:
+      213: 3548913732884800405
+    second: character_robot_sheetHD_217
+  - first:
+      213: 880228025839012914
+    second: character_robot_sheetHD_218
+  - first:
+      213: 7257689776097402215
+    second: character_robot_sheetHD_219
+  - first:
+      213: 5694839513045725617
+    second: character_robot_sheetHD_220
+  - first:
+      213: 5955554948757425857
+    second: character_robot_sheetHD_221
+  - first:
+      213: -8223578066763688132
+    second: character_robot_sheetHD_222
+  - first:
+      213: -5414169663719822481
+    second: character_robot_sheetHD_223
+  - first:
+      213: 2190020724950278987
+    second: character_robot_sheetHD_224
+  - first:
+      213: -6905580377339271736
+    second: character_robot_sheetHD_225
+  - first:
+      213: 449176372048998056
+    second: character_robot_sheetHD_226
+  - first:
+      213: 7202299131518315945
+    second: character_robot_sheetHD_227
+  - first:
+      213: 2404038475352303409
+    second: character_robot_sheetHD_228
+  - first:
+      213: 8165565926586080470
+    second: character_robot_sheetHD_229
+  - first:
+      213: -5186060149743097066
+    second: character_robot_sheetHD_230
+  - first:
+      213: 8456447152295823147
+    second: character_robot_sheetHD_231
+  - first:
+      213: -4120754012286773890
+    second: character_robot_sheetHD_232
+  - first:
+      213: -7036905176569061395
+    second: character_robot_sheetHD_233
+  - first:
+      213: 6078630365783948476
+    second: character_robot_sheetHD_234
+  - first:
+      213: -1053607796401804655
+    second: character_robot_sheetHD_235
+  - first:
+      213: 7888775107243108068
+    second: character_robot_sheetHD_236
+  - first:
+      213: 3355514322121881502
+    second: character_robot_sheetHD_237
+  - first:
+      213: 3003888316214679119
+    second: character_robot_sheetHD_238
+  - first:
+      213: 7221194530629063812
+    second: character_robot_sheetHD_239
+  - first:
+      213: -3278169524295731505
+    second: character_robot_sheetHD_240
+  - first:
+      213: 4986967587046409718
+    second: character_robot_sheetHD_241
+  - first:
+      213: -7641841909829397380
+    second: character_robot_sheetHD_242
+  - first:
+      213: -6101337597787124593
+    second: character_robot_sheetHD_243
+  - first:
+      213: -5625509087729920460
+    second: character_robot_sheetHD_244
+  - first:
+      213: 6287631055203908980
+    second: character_robot_sheetHD_245
+  - first:
+      213: 1796999266936035793
+    second: character_robot_sheetHD_246
+  - first:
+      213: 8889742215923849075
+    second: character_robot_sheetHD_247
+  - first:
+      213: 2731051163879898108
+    second: character_robot_sheetHD_248
+  - first:
+      213: -7890225885943616447
+    second: character_robot_sheetHD_249
+  - first:
+      213: -3778232280024308548
+    second: character_robot_sheetHD_250
+  - first:
+      213: -5879713566423279585
+    second: character_robot_sheetHD_251
+  - first:
+      213: 3952992552735248605
+    second: character_robot_sheetHD_252
+  - first:
+      213: -8299755548505001711
+    second: character_robot_sheetHD_253
+  - first:
+      213: 8320795863942905447
+    second: character_robot_sheetHD_254
+  - first:
+      213: 8199895998109157021
+    second: character_robot_sheetHD_255
+  - first:
+      213: -9418303246783768
+    second: character_robot_sheetHD_256
+  - first:
+      213: -2966334834280933860
+    second: character_robot_sheetHD_257
+  - first:
+      213: -277906999020065871
+    second: character_robot_sheetHD_258
+  - first:
+      213: 2941600906248460042
+    second: character_robot_sheetHD_259
+  - first:
+      213: 3949809389342460152
+    second: character_robot_sheetHD_260
+  - first:
+      213: 8504328824741070614
+    second: character_robot_sheetHD_261
+  - first:
+      213: 5197160980056315832
+    second: character_robot_sheetHD_262
+  - first:
+      213: 5670570430358035231
+    second: character_robot_sheetHD_263
+  - first:
+      213: 4278245249156964629
+    second: character_robot_sheetHD_264
+  - first:
+      213: 8027678843153147678
+    second: character_robot_sheetHD_265
+  - first:
+      213: -5776782344714312820
+    second: character_robot_sheetHD_266
+  - first:
+      213: -509079487152487947
+    second: character_robot_sheetHD_267
+  - first:
+      213: -6998143258497720356
+    second: character_robot_sheetHD_268
+  - first:
+      213: 4280569642904815950
+    second: character_robot_sheetHD_269
+  - first:
+      213: 8238217424281543037
+    second: character_robot_sheetHD_270
+  - first:
+      213: -2500015355383174400
+    second: character_robot_sheetHD_271
+  - first:
+      213: -2648239659857654950
+    second: character_robot_sheetHD_272
+  - first:
+      213: 697836603474117157
+    second: character_robot_sheetHD_273
+  - first:
+      213: -1671927912148028083
+    second: character_robot_sheetHD_274
+  - first:
+      213: 937859256935703553
+    second: character_robot_sheetHD_275
+  - first:
+      213: -1176628413642610216
+    second: character_robot_sheetHD_276
+  - first:
+      213: 8425069513678002354
+    second: character_robot_sheetHD_277
+  - first:
+      213: -2421816267808053636
+    second: character_robot_sheetHD_278
+  - first:
+      213: 973383262817698978
+    second: character_robot_sheetHD_279
+  - first:
+      213: -6663458209873133099
+    second: character_robot_sheetHD_280
+  - first:
+      213: -3969875346526347335
+    second: character_robot_sheetHD_281
+  - first:
+      213: -1363084242559308333
+    second: character_robot_sheetHD_282
+  - first:
+      213: 3174257629395770654
+    second: character_robot_sheetHD_283
+  - first:
+      213: 693987276678634898
+    second: character_robot_sheetHD_284
+  - first:
+      213: -2090609607160438197
+    second: character_robot_sheetHD_285
+  - first:
+      213: -7045979667139735446
+    second: character_robot_sheetHD_286
+  - first:
+      213: 2483858997568561146
+    second: character_robot_sheetHD_287
+  - first:
+      213: 1092347904052038723
+    second: character_robot_sheetHD_288
+  - first:
+      213: -7458916002706854156
+    second: character_robot_sheetHD_289
+  - first:
+      213: 7804425761661192662
+    second: character_robot_sheetHD_290
+  - first:
+      213: -6037929493109000398
+    second: character_robot_sheetHD_291
+  - first:
+      213: -2216197714196551430
+    second: character_robot_sheetHD_292
+  - first:
+      213: -6951817139644683109
+    second: character_robot_sheetHD_293
+  - first:
+      213: 4836103118143042904
+    second: character_robot_sheetHD_294
+  - first:
+      213: -227938808180694792
+    second: character_robot_sheetHD_295
+  - first:
+      213: 250015606026211786
+    second: character_robot_sheetHD_296
+  - first:
+      213: 3395465938618330075
+    second: character_robot_sheetHD_297
+  - first:
+      213: 1267296095919483709
+    second: character_robot_sheetHD_298
+  - first:
+      213: 5715305911439798251
+    second: character_robot_sheetHD_299
+  - first:
+      213: -7133972972906755687
+    second: character_robot_sheetHD_300
+  - first:
+      213: 8353003012052946832
+    second: character_robot_sheetHD_301
+  - first:
+      213: 2460427538409972687
+    second: character_robot_sheetHD_302
+  - first:
+      213: 7346466770225271750
+    second: character_robot_sheetHD_303
+  - first:
+      213: 2637455325013460163
+    second: character_robot_sheetHD_304
+  - first:
+      213: -1418316016839675191
+    second: character_robot_sheetHD_305
+  - first:
+      213: 720148785502442994
+    second: character_robot_sheetHD_306
+  - first:
+      213: -239878180778285907
+    second: character_robot_sheetHD_307
+  - first:
+      213: 3679776026421392022
+    second: character_robot_sheetHD_308
+  - first:
+      213: 5394466019386728437
+    second: character_robot_sheetHD_309
+  - first:
+      213: -1664547117687724270
+    second: character_robot_sheetHD_310
+  - first:
+      213: 3475476524964880296
+    second: character_robot_sheetHD_311
+  - first:
+      213: 3158286430501353373
+    second: character_robot_sheetHD_312
+  - first:
+      213: 7953977784903278999
+    second: character_robot_sheetHD_313
+  - first:
+      213: -7013202830984137702
+    second: character_robot_sheetHD_314
+  - first:
+      213: 662530684182893607
+    second: character_robot_sheetHD_315
+  - first:
+      213: 2361002601207188956
+    second: character_robot_sheetHD_316
+  - first:
+      213: -4144595434045629257
+    second: character_robot_sheetHD_317
+  - first:
+      213: -860482655548093591
+    second: character_robot_sheetHD_318
+  - first:
+      213: -7430079257442576692
+    second: character_robot_sheetHD_319
+  - first:
+      213: -2820426931149679280
+    second: character_robot_sheetHD_320
+  - first:
+      213: 4018701344035620927
+    second: character_robot_sheetHD_321
+  - first:
+      213: -8232841681027821747
+    second: character_robot_sheetHD_322
+  - first:
+      213: -8686313156952508367
+    second: character_robot_sheetHD_323
+  - first:
+      213: -3102089764631218128
+    second: character_robot_sheetHD_324
+  - first:
+      213: -2753189837570944705
+    second: character_robot_sheetHD_325
+  - first:
+      213: 2632168941463525783
+    second: character_robot_sheetHD_326
+  - first:
+      213: 3668190228213738026
+    second: character_robot_sheetHD_327
+  - first:
+      213: -6842753445650250461
+    second: character_robot_sheetHD_328
+  - first:
+      213: 4172206024288094621
+    second: character_robot_sheetHD_329
+  - first:
+      213: 6683585715163133730
+    second: character_robot_sheetHD_330
+  - first:
+      213: 6923980861112710482
+    second: character_robot_sheetHD_331
+  - first:
+      213: -6136565374496339625
+    second: character_robot_sheetHD_332
+  - first:
+      213: -1488983212578972281
+    second: character_robot_sheetHD_333
+  - first:
+      213: 3510562995126800564
+    second: character_robot_sheetHD_334
+  - first:
+      213: -4010208449590904128
+    second: character_robot_sheetHD_335
+  - first:
+      213: 9205711113616891776
+    second: character_robot_sheetHD_336
+  - first:
+      213: 6129759927819700354
+    second: character_robot_sheetHD_337
+  - first:
+      213: 2980646172105663059
+    second: character_robot_sheetHD_338
+  - first:
+      213: -4498162992458737189
+    second: character_robot_sheetHD_339
+  - first:
+      213: 3341269657043442571
+    second: character_robot_sheetHD_340
+  - first:
+      213: -3351213281510225522
+    second: character_robot_sheetHD_341
+  - first:
+      213: -6236805845304200586
+    second: character_robot_sheetHD_342
+  - first:
+      213: 5700478685023743857
+    second: character_robot_sheetHD_343
+  - first:
+      213: 8574411386002112314
+    second: character_robot_sheetHD_344
+  - first:
+      213: -5944334749643022422
+    second: character_robot_sheetHD_345
+  - first:
+      213: -5202175468725671014
+    second: character_robot_sheetHD_346
+  - first:
+      213: 4018639154543246457
+    second: character_robot_sheetHD_347
+  - first:
+      213: 4600852029059546951
+    second: character_robot_sheetHD_348
+  - first:
+      213: 8466730850288328760
+    second: character_robot_sheetHD_349
+  - first:
+      213: 1276617874298845237
+    second: character_robot_sheetHD_350
+  - first:
+      213: 1090598522906666645
+    second: character_robot_sheetHD_351
+  - first:
+      213: 1497575733144949266
+    second: character_robot_sheetHD_352
+  - first:
+      213: -3108574412737249296
+    second: character_robot_sheetHD_353
+  - first:
+      213: 6692339235558172911
+    second: character_robot_sheetHD_354
+  - first:
+      213: 2805923545823818250
+    second: character_robot_sheetHD_355
+  - first:
+      213: -4192202293737228131
+    second: character_robot_sheetHD_356
+  - first:
+      213: 276434379058587955
+    second: character_robot_sheetHD_357
+  - first:
+      213: 8743860909808684309
+    second: character_robot_sheetHD_358
+  - first:
+      213: -8081013666641569624
+    second: character_robot_sheetHD_359
+  - first:
+      213: 7345667411946617269
+    second: character_robot_sheetHD_360
+  - first:
+      213: -4857454079293183044
+    second: character_robot_sheetHD_361
+  - first:
+      213: 420798244287884573
+    second: character_robot_sheetHD_362
+  - first:
+      213: 2217098544224019118
+    second: character_robot_sheetHD_363
+  - first:
+      213: -4036032908085193519
+    second: character_robot_sheetHD_364
+  - first:
+      213: -818525882333402910
+    second: character_robot_sheetHD_365
+  - first:
+      213: 715109310291253368
+    second: character_robot_sheetHD_366
+  - first:
+      213: -7014789511900948585
+    second: character_robot_sheetHD_367
+  - first:
+      213: 54267043560836569
+    second: character_robot_sheetHD_368
+  - first:
+      213: 4248896421810521165
+    second: character_robot_sheetHD_369
+  - first:
+      213: 976653441447743601
+    second: character_robot_sheetHD_370
+  - first:
+      213: 8256407918510748155
+    second: character_robot_sheetHD_371
+  - first:
+      213: -7625567901292720931
+    second: character_robot_sheetHD_372
+  - first:
+      213: -6319589673297541776
+    second: character_robot_sheetHD_373
+  - first:
+      213: -9202409590072334808
+    second: character_robot_sheetHD_374
+  - first:
+      213: -8428767385810375069
+    second: character_robot_sheetHD_375
+  - first:
+      213: -7131083360222550913
+    second: character_robot_sheetHD_376
+  - first:
+      213: 1215464946448466218
+    second: character_robot_sheetHD_377
+  - first:
+      213: -8158393038050039920
+    second: character_robot_sheetHD_378
+  - first:
+      213: 7055684747057386480
+    second: character_robot_sheetHD_379
+  - first:
+      213: -2617957707026149032
+    second: character_robot_sheetHD_380
+  - first:
+      213: 173554017152804969
+    second: character_robot_sheetHD_381
+  - first:
+      213: 3812657004506434441
+    second: character_robot_sheetHD_382
+  - first:
+      213: 7598849040424747186
+    second: character_robot_sheetHD_383
+  - first:
+      213: -1968529157632875947
+    second: character_robot_sheetHD_384
+  - first:
+      213: 5530317991374249227
+    second: character_robot_sheetHD_385
+  - first:
+      213: 4651386424774295582
+    second: character_robot_sheetHD_386
+  - first:
+      213: 7492585020374684433
+    second: character_robot_sheetHD_387
+  - first:
+      213: -8118597448528941871
+    second: character_robot_sheetHD_388
+  - first:
+      213: 7546910989975078612
+    second: character_robot_sheetHD_389
+  - first:
+      213: -7076299369205452635
+    second: character_robot_sheetHD_390
+  - first:
+      213: -6110960411691693959
+    second: character_robot_sheetHD_391
+  - first:
+      213: 7647144418563872082
+    second: character_robot_sheetHD_392
+  - first:
+      213: -3063985079280351812
+    second: character_robot_sheetHD_393
+  - first:
+      213: 9116708775115197649
+    second: character_robot_sheetHD_394
+  - first:
+      213: -2435690104797497509
+    second: character_robot_sheetHD_395
+  - first:
+      213: -6769742664408924466
+    second: character_robot_sheetHD_396
+  - first:
+      213: 4240885434549753521
+    second: character_robot_sheetHD_397
+  - first:
+      213: 7044654555513076758
+    second: character_robot_sheetHD_398
+  - first:
+      213: 5717572548858470915
+    second: character_robot_sheetHD_399
+  - first:
+      213: 6729187459281883261
+    second: character_robot_sheetHD_400
+  - first:
+      213: -3891808249240530443
+    second: character_robot_sheetHD_401
+  - first:
+      213: 6090521378653689254
+    second: character_robot_sheetHD_402
+  - first:
+      213: 8216714594935205190
+    second: character_robot_sheetHD_403
+  - first:
+      213: -5711716567529377052
+    second: character_robot_sheetHD_404
+  - first:
+      213: 3270156202471518492
+    second: character_robot_sheetHD_405
+  - first:
+      213: -9092914296434474325
+    second: character_robot_sheetHD_406
+  - first:
+      213: -1614655077412535633
+    second: character_robot_sheetHD_407
+  - first:
+      213: 648165781963950728
+    second: character_robot_sheetHD_0
+  - first:
+      213: -679828185301403332
+    second: character_robot_sheetHD_1
+  - first:
+      213: 4230985358487810478
+    second: character_robot_sheetHD_2
+  - first:
+      213: 5335338820129651721
+    second: character_robot_sheetHD_3
+  - first:
+      213: 8721481625212708495
+    second: character_robot_sheetHD_4
+  - first:
+      213: 6944071007552664712
+    second: character_robot_sheetHD_5
+  - first:
+      213: 516527732018902809
+    second: character_robot_sheetHD_6
+  - first:
+      213: 8615647315113341139
+    second: character_robot_sheetHD_7
+  - first:
+      213: -9003872768511925353
+    second: character_robot_sheetHD_8
+  - first:
+      213: 6904220557062953999
+    second: character_robot_sheetHD_9
+  - first:
+      213: 5885705501147249798
+    second: character_robot_sheetHD_10
+  - first:
+      213: 7019989429086569577
+    second: character_robot_sheetHD_11
+  - first:
+      213: 6961904078421282227
+    second: character_robot_sheetHD_12
+  - first:
+      213: 5560145736077765131
+    second: character_robot_sheetHD_13
+  - first:
+      213: 8721708319960888435
+    second: character_robot_sheetHD_14
+  - first:
+      213: -8969396824554520123
+    second: character_robot_sheetHD_15
+  - first:
+      213: -9135712066799701300
+    second: character_robot_sheetHD_16
+  - first:
+      213: -4181734192814536048
+    second: character_robot_sheetHD_17
+  - first:
+      213: 2501266637285575013
+    second: character_robot_sheetHD_18
+  - first:
+      213: -208071168791692313
+    second: character_robot_sheetHD_19
+  - first:
+      213: -2753851959907475329
+    second: character_robot_sheetHD_20
+  - first:
+      213: -119657162564302569
+    second: character_robot_sheetHD_21
+  - first:
+      213: 3624682307247878398
+    second: character_robot_sheetHD_22
+  - first:
+      213: -6425939359552290735
+    second: character_robot_sheetHD_23
+  - first:
+      213: 6630937250024235389
+    second: character_robot_sheetHD_24
+  - first:
+      213: 7679713307152599873
+    second: character_robot_sheetHD_25
+  - first:
+      213: -247837062971057106
+    second: character_robot_sheetHD_26
+  - first:
+      213: -7789990695927160429
+    second: character_robot_sheetHD_27
+  - first:
+      213: 2906428182214527266
+    second: character_robot_sheetHD_28
+  - first:
+      213: 835432776253593531
+    second: character_robot_sheetHD_29
+  - first:
+      213: 1517442756628935434
+    second: character_robot_sheetHD_30
+  - first:
+      213: -7111873455552976779
+    second: character_robot_sheetHD_31
+  - first:
+      213: -1100267843233208323
+    second: character_robot_sheetHD_32
+  - first:
+      213: 2938558902306961433
+    second: character_robot_sheetHD_33
+  - first:
+      213: 4483065406095299706
+    second: character_robot_sheetHD_34
+  - first:
+      213: -6142649075195516020
+    second: character_robot_sheetHD_35
+  - first:
+      213: -7866371084526150594
+    second: character_robot_sheetHD_36
+  - first:
+      213: 3867742306843724980
+    second: character_robot_sheetHD_37
+  - first:
+      213: -5001562372706878853
+    second: character_robot_sheetHD_38
+  - first:
+      213: 8906110739425518359
+    second: character_robot_sheetHD_39
+  - first:
+      213: 1027455779243385063
+    second: character_robot_sheetHD_40
+  - first:
+      213: 8405538648719710494
+    second: character_robot_sheetHD_41
+  - first:
+      213: -3777126185782677816
+    second: character_robot_sheetHD_42
+  - first:
+      213: -8485121491466423265
+    second: character_robot_sheetHD_43
+  - first:
+      213: -1700455081755978850
+    second: character_robot_sheetHD_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_robot_sheetHD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a4685385fbef800800000000000000
+      internalID: 648165781963950728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39bfca0ed3c096f0800000000000000
+      internalID: -679828185301403332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea17b8e44ca77ba30800000000000000
+      internalID: 4230985358487810478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cfd2a936eea0a40800000000000000
+      internalID: 5335338820129651721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8666e9645de80970800000000000000
+      internalID: 8721481625212708495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884f3444acb4e5060800000000000000
+      internalID: 6944071007552664712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917ff9f4c331b2700800000000000000
+      internalID: 516527732018902809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0f06fd59de09770800000000000000
+      internalID: 8615647315113341139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a80eeb61db0380800000000000000
+      internalID: -9003872768511925353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cdfaa3408b0df50800000000000000
+      internalID: 6904220557062953999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cb17038f93ea150800000000000000
+      internalID: 5885705501147249798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964c3b731330c6160800000000000000
+      internalID: 7019989429086569577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdc4a2afd6ad9060800000000000000
+      internalID: 6961904078421282227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a615a861b992d40800000000000000
+      internalID: 5560145736077765131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37476d5e18bb90970800000000000000
+      internalID: 8721708319960888435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_15
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c149e62c1d468380800000000000000
+      internalID: -8969396824554520123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_16
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc27720474e673180800000000000000
+      internalID: -9135712066799701300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a4f2c48ee77f5c0800000000000000
+      internalID: -4181734192814536048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56941fb11c846b220800000000000000
+      internalID: 2501266637285575013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebbb28df58cc1df0800000000000000
+      internalID: -208071168791692313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70a3b5ab3a58c9d0800000000000000
+      internalID: -2753851959907475329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190682d174e65ef0800000000000000
+      internalID: -119657162564302569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef03723aa557d4230800000000000000
+      internalID: 3624682307247878398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1504fa5d23a72d6a0800000000000000
+      internalID: -6425939359552290735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71a993fb42d50c50800000000000000
+      internalID: 6630937250024235389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_25
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 512
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bcba16092d39a60800000000000000
+      internalID: 7679713307152599873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1f6b11818f8cf0800000000000000
+      internalID: -247837062971057106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391e9a53cb464e390800000000000000
+      internalID: -7789990695927160429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c4166805b55820800000000000000
+      internalID: 2906428182214527266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb750560fad089b00800000000000000
+      internalID: 835432776253593531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a037bdbb52a0f0510800000000000000
+      internalID: 1517442756628935434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5782c32c5cc8d4d90800000000000000
+      internalID: -7111873455552976779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_32
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7ac4ed9301bb0f0800000000000000
+      internalID: -1100267843233208323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9187193a0cbd7c820800000000000000
+      internalID: 2938558902306961433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_34
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 256
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74172b0c3c073e30800000000000000
+      internalID: 4483065406095299706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8be615163de0caa0800000000000000
+      internalID: -6142649075195516020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c1a6b2d2905d290800000000000000
+      internalID: -7866371084526150594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8b2ac22bfca530800000000000000
+      internalID: 3867742306843724980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ab8dc7581e69ab0800000000000000
+      internalID: -5001562372706878853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713efb9e78cd89b70800000000000000
+      internalID: 8906110739425518359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e069386691424e00800000000000000
+      internalID: 1027455779243385063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_41
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1951c6ddd876a470800000000000000
+      internalID: 8405538648719710494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_42
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee8900fb3f49bc0800000000000000
+      internalID: -3777126185782677816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_43
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f147c19a5face3a80800000000000000
+      internalID: -8485121491466423265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_robot_sheetHD_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 192
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e935d6fcc15c668e0800000000000000
+      internalID: -1700455081755978850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
