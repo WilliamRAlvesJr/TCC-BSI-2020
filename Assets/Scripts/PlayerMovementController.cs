@@ -11,8 +11,8 @@ public class PlayerMovementController : MonoBehaviour
     private Animator _animator;
 
     private Vector2 _oldPos;
-    private const float Speed = 6;
-    private Vector2 _newVelocity;
+    public static float Speed = 6;
+    public static Vector2 NewVelocity;
     private static readonly int Walking = Animator.StringToHash("Walking");
 
     private void Start()
@@ -40,23 +40,23 @@ public class PlayerMovementController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.W))
         {
-            _newVelocity = Speed * Vector2.up;
+            NewVelocity = Speed * Vector2.up;
         }
         else if (Input.GetKeyDown(KeyCode.S))
         {
-            _newVelocity = Speed * Vector2.down;
+            NewVelocity = Speed * Vector2.down;
         }
         else if (Input.GetKeyDown(KeyCode.A))
         {
-            _newVelocity = Speed * Vector2.left;
+            NewVelocity = Speed * Vector2.left;
             _spriteRenderer.flipX = true;
         }
         if (Input.GetKeyDown(KeyCode.D))
         {
-            _newVelocity = Speed * Vector2.right;
+            NewVelocity = Speed * Vector2.right;
             _spriteRenderer.flipX = false;
         }
 
-        _rigidbody2D.velocity = _newVelocity;
+        _rigidbody2D.velocity = NewVelocity;
     }
 }

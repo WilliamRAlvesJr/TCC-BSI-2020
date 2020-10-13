@@ -198,6 +198,7 @@ GameObject:
   - component: {fileID: 3997738485338859417}
   - component: {fileID: 3997738485338859416}
   - component: {fileID: 1931874747}
+  - component: {fileID: 1915881671}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -271,6 +272,27 @@ MonoBehaviour:
   _outlineMaterial: {fileID: 2100000, guid: c930011d7675dac4c89b6cc4989b3636, type: 2}
   _defaultSpriteMaterial: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3,
     type: 2}
+  enemiesLights:
+  - {fileID: 0}
+--- !u!114 &1915881671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3997738485338859419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e0c092cb73be664ab8b2dd19bbe09d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gui: {fileID: 0}
+  sceneManager: {fileID: 0}
+  stars:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  coinsPerStar: 30
 --- !u!1 &3997738485570780669
 GameObject:
   m_ObjectHideFlags: 0

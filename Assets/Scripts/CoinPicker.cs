@@ -13,7 +13,11 @@ public class CoinPicker : MonoBehaviour
         var tileCoordinate = coinPickup.WorldToCell(player.position);
         var shadowTileCoordinate = coinShadow.WorldToCell(tileCoordinate - (Vector3.down / 2));
         
-        coinPickup.SetTile(tileCoordinate, null);
-        coinShadow.SetTile(shadowTileCoordinate, null);
+        if (coinPickup.GetTile(tileCoordinate))
+        {
+            ScoreScript.Score += 1;
+            coinPickup.SetTile(tileCoordinate, null);
+            coinShadow.SetTile(shadowTileCoordinate, null);
+        }
     }
 }

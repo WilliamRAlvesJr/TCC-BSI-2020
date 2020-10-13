@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6629171482176587517}
   - component: {fileID: 6629171482176587516}
+  - component: {fileID: 3280248650979313083}
   m_Layer: 0
   m_Name: EnemyCollider
   m_TagString: Enemy
@@ -57,6 +58,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.6, y: 0.6}
   m_EdgeRadius: 0
+--- !u!114 &3280248650979313083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6629171482176587518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01822a349f9e25f4d85211c591cae17e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  explosionPrefab: {fileID: 7884603815661857335, guid: 601bbd3f7054edd4a9d6ad5e791c35c3,
+    type: 3}
 --- !u!1 &6629171482654658697
 GameObject:
   m_ObjectHideFlags: 0
@@ -126,6 +141,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec91725efedd9794588feb7d1c955c5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 5
 --- !u!1 &6629171483062903788
 GameObject:
   m_ObjectHideFlags: 0
