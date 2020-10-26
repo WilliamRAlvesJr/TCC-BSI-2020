@@ -628,11 +628,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 559730439e9b41a488ef30ff13cc305b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  levelNumber: 0
   defaultLetters: ___
   scoreText: {fileID: 6811822893575113871}
   lettersText: {fileID: 6811822893610066229}
   scoreTextSceneManager: {fileID: 0}
   lettersTextSceneManager: {fileID: 0}
+  nextButton: {fileID: 0}
   player: {fileID: 0}
 --- !u!225 &278839648
 CanvasGroup:

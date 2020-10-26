@@ -153,7 +153,7 @@ GameObject:
   - component: {fileID: 6629171483062903795}
   - component: {fileID: 6629171483062903794}
   m_Layer: 0
-  m_Name: Point Light 2D
+  m_Name: EnemyPointLight
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

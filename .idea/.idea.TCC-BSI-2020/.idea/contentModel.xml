@@ -4,19 +4,48 @@
     <e p="C:\Desenv\Unity\Projects\TCC-BSI-2020" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="20 Logos PSD" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="chunkfiveex" t="Include">
+              <e p="SIL Open Font License 1.1.txt" t="Include" />
+            </e>
+            <e p="firasansheavy" t="Include">
+              <e p="SIL Open Font License.txt" t="Include" />
+            </e>
+            <e p="kaushanscript" t="Include">
+              <e p="SIL Open Font License.txt" t="Include" />
+            </e>
+            <e p="molot" t="Include">
+              <e p="molot-eula.txt" t="Include" />
+            </e>
+            <e p="peacesans" t="Include">
+              <e p="FREE FONT LICENSE.txt" t="Include" />
+            </e>
+            <e p="Read Me.txt" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="AutoDestroy.cs" t="Include" />
           <e p="CoinPicker.cs" t="Include" />
           <e p="DebuffActivator.cs" t="Include" />
+          <e p="EmployeeExcite.cs" t="Include" />
           <e p="EnemyAI.cs" t="Include" />
           <e p="EnemyCollisionController.cs" t="Include" />
           <e p="FinishLevel.cs" t="Include" />
+          <e p="FollowCamera.cs" t="Include" />
           <e p="LetterPickup.cs" t="Include" />
+          <e p="LevelManagerButtonHandler.cs" t="Include" />
+          <e p="LevelProgressData.cs" t="Include" />
+          <e p="MenuButtonHandler.cs" t="Include" />
+          <e p="NavigationManager.cs" t="Include" />
+          <e p="ParallaxUp.cs" t="Include" />
           <e p="PlayerMovementController.cs" t="Include" />
           <e p="RageModeController.cs" t="Include" />
+          <e p="SaveSystem.cs" t="Include" />
           <e p="ScoreScript.cs" t="Include" />
           <e p="Sorting.cs" t="Include" />
         </e>
+        <e p="SpawnController.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive">

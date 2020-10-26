@@ -61,14 +61,29 @@
      <Compile Include="Assets\Scripts\AutoDestroy.cs" />
      <Compile Include="Assets\Scripts\CoinPicker.cs" />
      <Compile Include="Assets\Scripts\DebuffActivator.cs" />
+     <Compile Include="Assets\Scripts\EmployeeExcite.cs" />
      <Compile Include="Assets\Scripts\EnemyAI.cs" />
      <Compile Include="Assets\Scripts\EnemyCollisionController.cs" />
      <Compile Include="Assets\Scripts\FinishLevel.cs" />
+     <Compile Include="Assets\Scripts\FollowCamera.cs" />
      <Compile Include="Assets\Scripts\LetterPickup.cs" />
+     <Compile Include="Assets\Scripts\LevelManagerButtonHandler.cs" />
+     <Compile Include="Assets\Scripts\LevelProgressData.cs" />
+     <Compile Include="Assets\Scripts\MenuButtonHandler.cs" />
+     <Compile Include="Assets\Scripts\NavigationManager.cs" />
+     <Compile Include="Assets\Scripts\ParallaxUp.cs" />
      <Compile Include="Assets\Scripts\PlayerMovementController.cs" />
      <Compile Include="Assets\Scripts\RageModeController.cs" />
+     <Compile Include="Assets\Scripts\SaveSystem.cs" />
      <Compile Include="Assets\Scripts\ScoreScript.cs" />
      <Compile Include="Assets\Scripts\Sorting.cs" />
+     <Compile Include="Assets\SpawnController.cs" />
+     <None Include="Assets\20 Logos PSD\Fonts\chunkfiveex\SIL Open Font License 1.1.txt" />
+     <None Include="Assets\20 Logos PSD\Fonts\kaushanscript\SIL Open Font License.txt" />
+     <None Include="Assets\20 Logos PSD\Fonts\peacesans\FREE FONT LICENSE.txt" />
+     <None Include="Assets\20 Logos PSD\Fonts\molot\molot-eula.txt" />
+     <None Include="Assets\20 Logos PSD\Fonts\Read Me.txt" />
+     <None Include="Assets\20 Logos PSD\Fonts\firasansheavy\SIL Open Font License.txt" />
  <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
  <HintPath>C:/Desenv/Unity/Projects/TCC-BSI-2020/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
  </Reference>
