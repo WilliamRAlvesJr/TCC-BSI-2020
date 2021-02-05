@@ -37,7 +37,7 @@ public class RageModeController : MonoBehaviour
         }
         
         _spriteRenderer.material = _outlineMaterial;
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(4f);
         _spriteRenderer.material = _defaultSpriteMaterial;
         
         foreach (var enemyLight in enemiesLights)
