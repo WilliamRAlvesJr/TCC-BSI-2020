@@ -21,15 +21,27 @@ EditorBuildSettings:
     path: Assets/Scenes/Tutorial4.unity
     guid: f39b247d5acb54745a15ce4c6ea10f4a
   - enabled: 1
-    path: Assets/Scenes/Desert2.unity
-    guid: 24ce6d38ebc4c144f866369b2097f2a1
+    path: Assets/Scenes/Tutorial5.unity
+    guid: 2be5307c4fee20948928a93175dd8287
   - enabled: 1
-    path: Assets/Scenes/Green3.unity
+    path: Assets/Scenes/Green1.unity
     guid: ace11476fd8777a4495fde25ff1b4405
   - enabled: 1
     path: Assets/Scenes/Green2.unity
     guid: 62294a33b4a83cf43bbcde3106f05520
   - enabled: 1
-    path: Assets/Scenes/Green1.unity
-    guid: 2be5307c4fee20948928a93175dd8287
+    path: Assets/Scenes/Green3.unity
+    guid: cce8f4939e49d844e8487e68d9822ad4
+  - enabled: 1
+    path: Assets/Scenes/Green4.unity
+    guid: 9a3a74cd97b268a4ebc1f59a666210d6
+  - enabled: 1
+    path: Assets/Scenes/Green5.unity
+    guid: 33a4d5117d799264284b5d489a9c1a6d
+  - enabled: 1
+    path: Assets/Scenes/Desert1.unity
+    guid: d5d3df00d4fe104428443eb59b1e4568
+  - enabled: 1
+    path: Assets/Scenes/Desert2.unity
+    guid: 24ce6d38ebc4c144f866369b2097f2a1
   m_configObjects: {}

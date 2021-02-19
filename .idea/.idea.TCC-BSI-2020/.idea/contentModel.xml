@@ -24,6 +24,7 @@
             <e p="Read Me.txt" t="Include" />
           </e>
         </e>
+        <e p="LevelUnlocker.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="AutoDestroy.cs" t="Include" />
           <e p="CoinPicker.cs" t="Include" />
@@ -39,6 +40,7 @@
           <e p="MenuButtonHandler.cs" t="Include" />
           <e p="NavigationManager.cs" t="Include" />
           <e p="ParallaxUp.cs" t="Include" />
+          <e p="PermanentSound.cs" t="Include" />
           <e p="PlayerMovementController.cs" t="Include" />
           <e p="RageModeController.cs" t="Include" />
           <e p="SaveSystem.cs" t="Include" />
@@ -46,6 +48,7 @@
           <e p="Sorting.cs" t="Include" />
         </e>
         <e p="SpawnController.cs" t="Include" />
+        <e p="VolumeController.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive">

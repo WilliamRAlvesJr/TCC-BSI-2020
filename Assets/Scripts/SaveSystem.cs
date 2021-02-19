@@ -32,7 +32,7 @@ public static class SaveSystem
         else
         {
             Debug.LogError("Save file not found" + path);
-            return null;
+            return new LevelProgressData(1);
         }
     }
 }

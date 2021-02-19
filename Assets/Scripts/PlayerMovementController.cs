@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
@@ -14,6 +16,8 @@ public class PlayerMovementController : MonoBehaviour
     public static float Speed = 6;
     public static Vector2 NewVelocity;
     private static readonly int Walking = Animator.StringToHash("Walking");
+    private AudioSource _stepsAudioSource;
+    private float _lastStepTime = 0f;
 
     private void Start()
     {
@@ -21,6 +25,7 @@ public class PlayerMovementController : MonoBehaviour
         _rigidbody2D = GetComponent<Rigidbody2D>();
         _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         _animator = GetComponentInChildren<Animator>();
+        _stepsAudioSource = GetComponents<AudioSource>()[0];
     }
 
     private void FixedUpdate()
@@ -28,6 +33,13 @@ public class PlayerMovementController : MonoBehaviour
         if(Math.Abs(_oldPos.x - transform.position.x) > Tolerance || Math.Abs(_oldPos.y - transform.position.y) > Tolerance)
         {
             _animator.SetBool(Walking, true);
+            if (_stepsAudioSource.isPlaying) return;
+            
+            if (Time.time > _lastStepTime) 
+            {
+                _stepsAudioSource.Play();
+                _lastStepTime = Time.time + 0.5f;
+            }
         }
         else
         {

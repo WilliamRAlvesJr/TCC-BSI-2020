@@ -30,5 +30,9 @@ public class LevelManagerButtonHandler : MonoBehaviour
         yield return new WaitForSeconds(1f);
         NavigationManager.NavigateTo(nextScene);
     }
-    
+
+    public void GoToScene2(string nextScene)
+    {
+        StartCoroutine(GoToScene(nextScene));
+    }
 }

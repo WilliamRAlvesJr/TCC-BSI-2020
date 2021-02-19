@@ -6,15 +6,29 @@ public class LetterPickup : MonoBehaviour
     [SerializeField] private int letterPosition;
     public static bool LetterAlreadyInHand;
     private bool _thisLetterIsOnHand;
+    private AudioSource _wrongLetterSound;
+    private AudioSource _letterName;
+
+    private void Awake()
+    {
+        var audioSources = GetComponents<AudioSource>();
+        _wrongLetterSound = audioSources[0];
+        _letterName = audioSources[1];
+    }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.name.Equals("EmployeeCollider"))
         {
-            if (!other.GetComponentInParent<EmployeeExcite>().acceptableLetters.Contains(letter)) return;
+            if (!other.GetComponentInParent<EmployeeExcite>().acceptableLetters.Contains(letter))
+            {
+                _wrongLetterSound.Play();
+                return;
+            }
+            other.GetComponentInParent<AudioSource>().Play();
             
             GameObject.Find("Player/PlayerRenderer/LetterInInventory").GetComponent<SpriteRenderer>().sprite = null;
-            ScoreScript.SetLetter(letter, letterPosition);
+            if (letterPosition >= 0) ScoreScript.SetLetter(letter, letterPosition);
             RageModeController.RageModeTrigger = true;
             LetterAlreadyInHand = false;
             Destroy(gameObject);
@@ -40,6 +54,7 @@ public class LetterPickup : MonoBehaviour
         
         LetterAlreadyInHand = true;
         _thisLetterIsOnHand = true;
+        _letterName.Play();
     }
 
     private void OnTriggerStay2D(Collider2D other)
