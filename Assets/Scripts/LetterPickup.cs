@@ -4,6 +4,7 @@ public class LetterPickup : MonoBehaviour
 {
     [SerializeField] private string letter;
     [SerializeField] private int letterPosition;
+    [SerializeField] private bool isOrderer;
     public static bool LetterAlreadyInHand;
     private bool _thisLetterIsOnHand;
     private AudioSource _wrongLetterSound;
@@ -28,6 +29,7 @@ public class LetterPickup : MonoBehaviour
             other.GetComponentInParent<AudioSource>().Play();
             
             GameObject.Find("Player/PlayerRenderer/LetterInInventory").GetComponent<SpriteRenderer>().sprite = null;
+            
             if (letterPosition >= 0) ScoreScript.SetLetter(letter, letterPosition);
             RageModeController.RageModeTrigger = true;
             LetterAlreadyInHand = false;
@@ -42,6 +44,14 @@ public class LetterPickup : MonoBehaviour
         
         if (LetterAlreadyInHand) return;
         if (!other.CompareTag("Player") || !other.name.Equals("PlayerCollider")) return;
+        if (isOrderer)
+        {
+            if (ScoreScript.GetNextPosition() != letterPosition)
+            {
+                _wrongLetterSound.Play();
+                return;
+            }
+        }
         if (RageModeController.RageModeTrigger) return;
 
         GameObject.Find("Player/PlayerRenderer/LetterInInventory").GetComponent<SpriteRenderer>().sprite = gameObject.GetComponent<SpriteRenderer>().sprite;

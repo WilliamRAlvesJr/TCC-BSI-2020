@@ -68,6 +68,9 @@ public class PlayerMovementController : MonoBehaviour
             NewVelocity = Speed * Vector2.right;
             _spriteRenderer.flipX = false;
         }
+        
+        if (Input.GetKeyDown(KeyCode.Escape))
+            Destroy(gameObject);
 
         _rigidbody2D.velocity = NewVelocity;
     }

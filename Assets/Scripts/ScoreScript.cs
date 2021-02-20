@@ -54,6 +54,11 @@ public class ScoreScript : MonoBehaviour
 
     public static void SetLetter(string letter, int position)
     {
-        Letters = Letters.Remove(position, 1).Insert(position, letter);
+        Letters = Letters.Remove(position, letter.Length).Insert(position, letter);
+    }
+
+    public static int GetNextPosition()
+    {
+        return Letters.IndexOf("_", StringComparison.Ordinal);
     }
 }
