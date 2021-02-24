@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -23,9 +24,10 @@ public class ScoreScript : MonoBehaviour
 
     private void Start()
     {
+        defaultLetters = defaultLetters.Replace("\\n", Environment.NewLine);
         Letters = defaultLetters;
         nextButton.SetActive(false);
-        _endAudioSource = GetComponent<AudioSource>();
+        _endAudioSource = GetComponents<AudioSource>()[0];
     }
 
     private void Update()
@@ -36,7 +38,8 @@ public class ScoreScript : MonoBehaviour
         lettersText.text = Letters;
      
         scoreTextSceneManager.text = scoreText.text;
-        lettersTextSceneManager.text = lettersText.text;
+        var auxLettersText = lettersText.text.Replace(Environment.NewLine, " ");
+        lettersTextSceneManager.text = auxLettersText;
 
         if (Letters.Contains("_")) return;
 
@@ -49,9 +52,16 @@ public class ScoreScript : MonoBehaviour
             Math.Max(levelNumber + 1, SaveSystem.LoadLevelProgress().lastUnlockedLevel)
         ));
 
-        _finished = true;
+        StartCoroutine(SetFinished());
     }
 
+    private IEnumerator SetFinished()
+    {
+        _finished = true;
+        yield return new WaitForSeconds(1f);
+        GetComponents<AudioSource>()[1].Play();
+    }
+    
     public static void SetLetter(string letter, int position)
     {
         Letters = Letters.Remove(position, letter.Length).Insert(position, letter);

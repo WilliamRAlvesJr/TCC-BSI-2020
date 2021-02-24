@@ -4,85 +4,36 @@
     <list default="true" id="38996431-4e99-4611-885a-9a26d5771403" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TCC-BSI-2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TCC-BSI-2020/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Materials/MenuParallax.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/MenuParallax.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Desert1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Desert1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Desert2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Desert2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Green1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Green1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Green2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Green2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Green3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Green3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Green4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Green4.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Green5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Green5.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/GUI.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/GUI.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Alien1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Alien1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Alien1.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Alien1.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/BugFind.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BugFind.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Desert3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Desert3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Desert4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Desert4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Desert5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Desert5.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Ice1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Ice1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LetterPickup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LetterPickup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PermanentSound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PermanentSound.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovementController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Water1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Water1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Water2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Water2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Water3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Water3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Water4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Water4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Water5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Water5.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScoreScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScoreScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Letters/Syllabus/PO2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Letters/Syllabus/PO2.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/7ddb5d-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/7ddb5d-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/ee554e-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/ee554e-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.Animation.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.Animation.Runtime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.Animation.Triangle.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.Animation.Triangle.Runtime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.Common.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.Common.Runtime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.PixelPerfect.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.PixelPerfect.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.Tilemap.Extras.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.2D.Tilemap.Extras.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.Mathematics.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.Mathematics.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.Postprocessing.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.Postprocessing.Runtime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/Unity.Timeline.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/Managed/UnityEngine.UI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/globalgamemanagers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/globalgamemanagers.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level1" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level10" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level11" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level12" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level12" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level2" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level3" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level4" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level5" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level6" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level7" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level8" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level9" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/level9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/resources.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/resources.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets0.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets0.assets.resS" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets0.assets.resS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets0.resource" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets0.resource" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets1.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets1.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets1.resource" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets1.resource" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets10.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets10.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets11.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets11.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets12.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets12.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets2.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets2.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets3.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets3.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets4.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets4.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets5.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets5.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets6.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets6.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets7.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets7.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets8.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets8.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets9.assets" beforeDir="false" afterPath="$PROJECT_DIR$/WindowsTarget/TCC-BSI-2020_Data/sharedassets9.assets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,6 +66,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1422B3F-C937-4601-8C92-EDA852993B93/33/1bb9af2b/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuffActivator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelProgressData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/2d-extras-master/Runtime/Tiles/WeightedRandomTile/WeightedRandomTile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowCamera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EmployeeExcite.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/2d-extras-master/Runtime/Tiles/AnimatedTile/AnimatedTile.cs" root0="FORCE_HIGHLIGHTING" />
@@ -124,6 +76,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SpawnController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1422B3F-C937-4601-8C92-EDA852993B93/ec/4a26795c/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/2d-extras-master/Runtime/Brushes/TintedTilemap.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D1422B3F-C937-4601-8C92-EDA852993B93/49/cc94f6d3/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/2d-extras-master/Editor/Brushes/PrefabBrushes/BasePrefabBrush.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E93AB2F8-5FF8-4881-B6AB-5BA98D373CFC/2f/c73759e2/NativeInputSystem.cs" root0="SKIP_HIGHLIGHTING" />
@@ -158,13 +111,13 @@
         <option value="$PROJECT_DIR$/Assets/LevelUnlocker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AutoDestroy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoinPicker.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RageModeController.cs" />
         <option value="$PROJECT_DIR$/Assets/VolumeController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelManagerButtonHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovementController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PermanentSound.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LetterPickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RageModeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreScript.cs" />
       </list>
     </option>
   </component>
@@ -247,7 +200,10 @@
       <workItem from="1613658337187" duration="15870000" />
       <workItem from="1613742664696" duration="1908000" />
       <workItem from="1613788000930" duration="3481000" />
-      <workItem from="1613820464819" duration="7020000" />
+      <workItem from="1613820464819" duration="7023000" />
+      <workItem from="1613956105031" duration="3775000" />
+      <workItem from="1614014698821" duration="5825000" />
+      <workItem from="1614190535329" duration="1113000" />
     </task>
     <servers />
   </component>

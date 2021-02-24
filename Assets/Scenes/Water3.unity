@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -3558,7 +3558,7 @@ Tilemap:
       - {fileID: 21300000, guid: 141509b08978f5549bdc4dcb8c382bf3, type: 3}
       - {fileID: 21300000, guid: 636751556e05247498c2d2d146afb9bf, type: 3}
       - {fileID: 21300000, guid: 211e6cd1d2495f44498b72eaff0af7e3, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -7, y: -2, z: 0}
@@ -3628,7 +3628,7 @@ Tilemap:
       - {fileID: 21300000, guid: 141509b08978f5549bdc4dcb8c382bf3, type: 3}
       - {fileID: 21300000, guid: 636751556e05247498c2d2d146afb9bf, type: 3}
       - {fileID: 21300000, guid: 211e6cd1d2495f44498b72eaff0af7e3, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -9, y: -1, z: 0}
@@ -3698,7 +3698,7 @@ Tilemap:
       - {fileID: 21300000, guid: 141509b08978f5549bdc4dcb8c382bf3, type: 3}
       - {fileID: 21300000, guid: 636751556e05247498c2d2d146afb9bf, type: 3}
       - {fileID: 21300000, guid: 211e6cd1d2495f44498b72eaff0af7e3, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -7, y: 0, z: 0}
@@ -3726,7 +3726,7 @@ Tilemap:
       - {fileID: 21300000, guid: 141509b08978f5549bdc4dcb8c382bf3, type: 3}
       - {fileID: 21300000, guid: 636751556e05247498c2d2d146afb9bf, type: 3}
       - {fileID: 21300000, guid: 211e6cd1d2495f44498b72eaff0af7e3, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 5, y: 0, z: 0}
@@ -3740,7 +3740,7 @@ Tilemap:
       - {fileID: 21300000, guid: 141509b08978f5549bdc4dcb8c382bf3, type: 3}
       - {fileID: 21300000, guid: 636751556e05247498c2d2d146afb9bf, type: 3}
       - {fileID: 21300000, guid: 211e6cd1d2495f44498b72eaff0af7e3, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 6, y: 0, z: 0}
@@ -3880,7 +3880,7 @@ Tilemap:
       - {fileID: 21300000, guid: 141509b08978f5549bdc4dcb8c382bf3, type: 3}
       - {fileID: 21300000, guid: 636751556e05247498c2d2d146afb9bf, type: 3}
       - {fileID: 21300000, guid: 211e6cd1d2495f44498b72eaff0af7e3, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 6, y: 2, z: 0}
@@ -3964,7 +3964,7 @@ Tilemap:
       - {fileID: 21300000, guid: 141509b08978f5549bdc4dcb8c382bf3, type: 3}
       - {fileID: 21300000, guid: 636751556e05247498c2d2d146afb9bf, type: 3}
       - {fileID: 21300000, guid: 211e6cd1d2495f44498b72eaff0af7e3, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -9, y: 4, z: 0}
@@ -4034,7 +4034,7 @@ Tilemap:
       - {fileID: 21300000, guid: 141509b08978f5549bdc4dcb8c382bf3, type: 3}
       - {fileID: 21300000, guid: 636751556e05247498c2d2d146afb9bf, type: 3}
       - {fileID: 21300000, guid: 211e6cd1d2495f44498b72eaff0af7e3, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 8, y: 4, z: 0}
@@ -12592,7 +12592,7 @@ PrefabInstance:
     - target: {fileID: 6157839240149356573, guid: ecbfd8603967bba4890a306edead8495,
         type: 3}
       propertyPath: nextLevel
-      value: Desert2
+      value: Water4
       objectReference: {fileID: 0}
     - target: {fileID: 6157839240227943460, guid: ecbfd8603967bba4890a306edead8495,
         type: 3}
@@ -12903,7 +12903,7 @@ PrefabInstance:
     - target: {fileID: 6883236883667659469, guid: 211e4031f87159346a24eceaee5dcd3c,
         type: 3}
       propertyPath: levelNumber
-      value: 11
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 6928754635805845454, guid: 211e4031f87159346a24eceaee5dcd3c,
         type: 3}
