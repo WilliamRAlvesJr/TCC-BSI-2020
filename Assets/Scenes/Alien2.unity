@@ -840,7 +840,7 @@ Tilemap:
       - {fileID: 21300000, guid: 141509b08978f5549bdc4dcb8c382bf3, type: 3}
       - {fileID: 21300000, guid: 636751556e05247498c2d2d146afb9bf, type: 3}
       - {fileID: 21300000, guid: 211e6cd1d2495f44498b72eaff0af7e3, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 5, y: -2, z: 0}
@@ -8426,7 +8426,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8c1fe024d99ff3c49a8ce2a4f5902bfa,
+      objectReference: {fileID: 21300000, guid: 13e0eb93aabece244a9a5aeacc71a261,
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8dba9e00590dca4ab84a0d26e4b097e, type: 3}
@@ -13585,7 +13585,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 315785356, guid: ecbfd8603967bba4890a306edead8495, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -115
+      value: -100
+      objectReference: {fileID: 0}
+    - target: {fileID: 315785356, guid: ecbfd8603967bba4890a306edead8495, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 315785357, guid: ecbfd8603967bba4890a306edead8495, type: 3}
       propertyPath: m_Color.a
@@ -13614,7 +13618,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 729679319, guid: ecbfd8603967bba4890a306edead8495, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -85
+      value: -100
+      objectReference: {fileID: 0}
+    - target: {fileID: 729679319, guid: ecbfd8603967bba4890a306edead8495, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 729679320, guid: ecbfd8603967bba4890a306edead8495, type: 3}
       propertyPath: m_Color.a
@@ -13627,15 +13635,19 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 1153244867, guid: ecbfd8603967bba4890a306edead8495, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.7
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1153244867, guid: ecbfd8603967bba4890a306edead8495, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 25
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 1153244867, guid: ecbfd8603967bba4890a306edead8495, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 120
       objectReference: {fileID: 0}
     - target: {fileID: 1153244868, guid: ecbfd8603967bba4890a306edead8495, type: 3}
       propertyPath: m_Text
-      value: PATO SAPO
+      value: "PATO \nSAPO"
       objectReference: {fileID: 0}
     - target: {fileID: 1202933555, guid: ecbfd8603967bba4890a306edead8495, type: 3}
       propertyPath: m_IsActive
@@ -13659,6 +13671,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: -75
       objectReference: {fileID: 0}
+    - target: {fileID: 3167446370171257502, guid: ecbfd8603967bba4890a306edead8495,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -25
+      objectReference: {fileID: 0}
     - target: {fileID: 6157839239463040376, guid: ecbfd8603967bba4890a306edead8495,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -13667,7 +13684,7 @@ PrefabInstance:
     - target: {fileID: 6157839240149356573, guid: ecbfd8603967bba4890a306edead8495,
         type: 3}
       propertyPath: nextLevel
-      value: Desert2
+      value: Alien3
       objectReference: {fileID: 0}
     - target: {fileID: 6157839240227943460, guid: ecbfd8603967bba4890a306edead8495,
         type: 3}
@@ -13829,7 +13846,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 8c1fe024d99ff3c49a8ce2a4f5902bfa,
+      objectReference: {fileID: 21300000, guid: 13e0eb93aabece244a9a5aeacc71a261,
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8dba9e00590dca4ab84a0d26e4b097e, type: 3}
@@ -14050,7 +14067,7 @@ PrefabInstance:
     - target: {fileID: 6883236883667659469, guid: 211e4031f87159346a24eceaee5dcd3c,
         type: 3}
       propertyPath: levelNumber
-      value: 21
+      value: 27
       objectReference: {fileID: 0}
     - target: {fileID: 6928754635805845454, guid: 211e4031f87159346a24eceaee5dcd3c,
         type: 3}

@@ -38,8 +38,8 @@ public class ScoreScript : MonoBehaviour
         lettersText.text = Letters;
      
         scoreTextSceneManager.text = scoreText.text;
-        var auxLettersText = lettersText.text.Replace(Environment.NewLine, " ");
-        lettersTextSceneManager.text = auxLettersText;
+//        var auxLettersText = lettersText.text.Replace(Environment.NewLine, " ");
+        lettersTextSceneManager.text = lettersText.text;
 
         if (Letters.Contains("_")) return;
 

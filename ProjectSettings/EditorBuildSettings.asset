@@ -42,6 +42,60 @@ EditorBuildSettings:
     path: Assets/Scenes/Desert1.unity
     guid: d5d3df00d4fe104428443eb59b1e4568
   - enabled: 1
+    path: Assets/Scenes/Desert2.unity
+    guid: c7399c8e71035aa48849f3972e212ac3
+  - enabled: 1
+    path: Assets/Scenes/Desert3.unity
+    guid: 6795896b26e9f5f4f913b3963de66719
+  - enabled: 1
     path: Assets/Scenes/Desert4.unity
     guid: 24ce6d38ebc4c144f866369b2097f2a1
+  - enabled: 1
+    path: Assets/Scenes/Desert5.unity
+    guid: 388f13247afb4604fabe2eed0618c54c
+  - enabled: 1
+    path: Assets/Scenes/Water1.unity
+    guid: 222234e3c227e9a4192333af8920fc4a
+  - enabled: 1
+    path: Assets/Scenes/Water2.unity
+    guid: 414fa9e04087cda409825426bd9c06af
+  - enabled: 1
+    path: Assets/Scenes/Water3.unity
+    guid: 62beacbd64299fe4297ee5b8adee2e36
+  - enabled: 1
+    path: Assets/Scenes/Water4.unity
+    guid: ce0c972207dbb994f8f4fe72cea3138d
+  - enabled: 1
+    path: Assets/Scenes/Water5.unity
+    guid: 69f0902185775954a9b2c9ebb7d6968a
+  - enabled: 1
+    path: Assets/Scenes/Ice1.unity
+    guid: 2537b2d9f9498544eacef4f92a269cb7
+  - enabled: 1
+    path: Assets/Scenes/Ice2.unity
+    guid: 21d6b674e424c8b479f74fa03ad16955
+  - enabled: 1
+    path: Assets/Scenes/Ice3.unity
+    guid: 9d80447c8dba28649a8bc846be2d0286
+  - enabled: 1
+    path: Assets/Scenes/Ice4.unity
+    guid: 9554807000fcb66498a444c7c6dc078f
+  - enabled: 1
+    path: Assets/Scenes/Ice5.unity
+    guid: 849e7e29c7aa190458516a7d9d1ae75f
+  - enabled: 1
+    path: Assets/Scenes/Alien1.unity
+    guid: f7411afd567a7fb4d8b667bf655ef3d6
+  - enabled: 1
+    path: Assets/Scenes/Alien2.unity
+    guid: 5634a50d6c152c742b91753c317b03a0
+  - enabled: 1
+    path: Assets/Scenes/Alien3.unity
+    guid: 97437791330ce6a4fabdb3b6be745d04
+  - enabled: 1
+    path: Assets/Scenes/Alien4.unity
+    guid: f601a21d4c4a4464f814a9730e87b73b
+  - enabled: 1
+    path: Assets/Scenes/Alien5.unity
+    guid: 409217f53fe10bd46a36c623db9a7e10
   m_configObjects: {}

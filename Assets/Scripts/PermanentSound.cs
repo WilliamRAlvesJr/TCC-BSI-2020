@@ -6,6 +6,9 @@ public class PermanentSound : MonoBehaviour
     private AudioSource _tutorialAudioSource;
     private AudioSource _greenAudioSource;
     private AudioSource _desertAudioSource;
+    private AudioSource _iceAudioSource;
+    private AudioSource _waterAudioSource;
+    private AudioSource _alienAudioSource;
     
     private void Awake()
     {
@@ -13,6 +16,9 @@ public class PermanentSound : MonoBehaviour
         _tutorialAudioSource = audioSources[0];
         _greenAudioSource = audioSources[1];
         _desertAudioSource = audioSources[2];
+        _iceAudioSource = audioSources[3];
+        _waterAudioSource = audioSources[4];
+        _alienAudioSource = audioSources[5];
         
         SceneManager.sceneLoaded += OnSceneLoaded;
         
@@ -35,5 +41,20 @@ public class PermanentSound : MonoBehaviour
             _desertAudioSource.Play();
         else if (!scene.name.StartsWith("Desert"))
             _desertAudioSource.Stop();
+            
+        if (scene.name.StartsWith("Ice") && !_iceAudioSource.isPlaying)
+            _iceAudioSource.Play();
+        else if (!scene.name.StartsWith("Ice"))
+            _iceAudioSource.Stop();
+        
+        if (scene.name.StartsWith("Water") && !_waterAudioSource.isPlaying)
+            _waterAudioSource.Play();
+        else if (!scene.name.StartsWith("Water"))
+            _waterAudioSource.Stop();
+            
+        if (scene.name.StartsWith("Alien") && !_alienAudioSource.isPlaying)
+            _alienAudioSource.Play();
+        else if (!scene.name.StartsWith("Alien"))
+            _alienAudioSource.Stop();
     }
 }
