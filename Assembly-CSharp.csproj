@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\LevelUnlocker.cs" />
+     <Compile Include="Assets\PauseScript.cs" />
      <Compile Include="Assets\Scripts\AutoDestroy.cs" />
      <Compile Include="Assets\Scripts\CoinPicker.cs" />
      <Compile Include="Assets\Scripts\DebuffActivator.cs" />
@@ -80,6 +81,7 @@
      <Compile Include="Assets\Scripts\ScoreScript.cs" />
      <Compile Include="Assets\Scripts\Sorting.cs" />
      <Compile Include="Assets\SpawnController.cs" />
+     <Compile Include="Assets\TutorialController.cs" />
      <Compile Include="Assets\VolumeController.cs" />
      <None Include="Assets\20 Logos PSD\Fonts\chunkfiveex\SIL Open Font License 1.1.txt" />
      <None Include="Assets\20 Logos PSD\Fonts\kaushanscript\SIL Open Font License.txt" />

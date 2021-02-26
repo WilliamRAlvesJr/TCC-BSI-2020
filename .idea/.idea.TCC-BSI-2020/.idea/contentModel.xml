@@ -25,6 +25,7 @@
           </e>
         </e>
         <e p="LevelUnlocker.cs" t="Include" />
+        <e p="PauseScript.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="AutoDestroy.cs" t="Include" />
           <e p="CoinPicker.cs" t="Include" />
@@ -48,6 +49,7 @@
           <e p="Sorting.cs" t="Include" />
         </e>
         <e p="SpawnController.cs" t="Include" />
+        <e p="TutorialController.cs" t="Include" />
         <e p="VolumeController.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
