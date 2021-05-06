@@ -24,6 +24,7 @@
             <e p="Read Me.txt" t="Include" />
           </e>
         </e>
+        <e p="GameSpeedController.cs" t="Include" />
         <e p="LevelUnlocker.cs" t="Include" />
         <e p="PauseScript.cs" t="Include" />
         <e p="Scripts" t="Include">
@@ -47,10 +48,11 @@
           <e p="SaveSystem.cs" t="Include" />
           <e p="ScoreScript.cs" t="Include" />
           <e p="Sorting.cs" t="Include" />
+          <e p="TutorialReset.cs" t="Include" />
         </e>
+        <e p="SoundController.cs" t="Include" />
         <e p="SpawnController.cs" t="Include" />
         <e p="TutorialController.cs" t="Include" />
-        <e p="VolumeController.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive">
@@ -174,7 +176,7 @@
       <e p="Unity.2D.Tilemap.Extras.Editor.csproj" t="IncludeRecursive" />
       <e p="Unity.2D.Tilemap.Extras.Placeholder.EditorTests.csproj" t="IncludeRecursive" />
     </e>
-    <e p="C:\Users\William Junior\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\William Junior\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_TCC-BSI-2020.-1257802601.00" t="ExcludeRecursive" />
+    <e p="C:\Users\William\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\William\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_TCC-BSI-2020.-1257802601.00" t="ExcludeRecursive" />
   </component>
 </project>

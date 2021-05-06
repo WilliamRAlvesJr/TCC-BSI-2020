@@ -21,13 +21,13 @@ public class EnemyAI : MonoBehaviour
         var randomNumber = new Random().Next(1, 51);
 
         if (randomNumber == 1)
-            _newVelocity = speed * Vector2.up;
+            _newVelocity = speed * GameSpeedController.GameSpeed * Vector2.up;
         else if (randomNumber == 2)
-            _newVelocity = speed * Vector2.down;
+            _newVelocity = speed * GameSpeedController.GameSpeed * Vector2.down;
         else if (randomNumber == 3)
-            _newVelocity = speed * Vector2.left;
+            _newVelocity = speed * GameSpeedController.GameSpeed * Vector2.left;
         else if (randomNumber == 4)
-            _newVelocity = speed * Vector2.right;
+            _newVelocity = speed * GameSpeedController.GameSpeed * Vector2.right;
 
         _rigidbody2D.velocity = _newVelocity;
         

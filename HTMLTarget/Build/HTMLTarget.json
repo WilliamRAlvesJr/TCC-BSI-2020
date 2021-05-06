@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TCC-BSI-2020",
+"productVersion": "0.1",
+"dataUrl": "HTMLTarget.data.unityweb",
+"wasmCodeUrl": "HTMLTarget.wasm.code.unityweb",
+"wasmFrameworkUrl": "HTMLTarget.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}

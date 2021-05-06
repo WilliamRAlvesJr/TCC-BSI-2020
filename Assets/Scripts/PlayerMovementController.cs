@@ -6,7 +6,7 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerMovementController : MonoBehaviour
 {
-    private const float Tolerance = 0.1f;
+    private const float Tolerance = 0.01f;
     
     private Rigidbody2D _rigidbody2D;
     private SpriteRenderer _spriteRenderer;
@@ -50,22 +50,22 @@ public class PlayerMovementController : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.W))
+        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
         {
-            NewVelocity = Speed * Vector2.up;
+            NewVelocity = Speed * GameSpeedController.GameSpeed * Vector2.up;
         }
-        else if (Input.GetKeyDown(KeyCode.S))
+        else if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
         {
-            NewVelocity = Speed * Vector2.down;
+            NewVelocity = Speed * GameSpeedController.GameSpeed * Vector2.down;
         }
-        else if (Input.GetKeyDown(KeyCode.A))
+        else if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
         {
-            NewVelocity = Speed * Vector2.left;
+            NewVelocity = Speed * GameSpeedController.GameSpeed * Vector2.left;
             _spriteRenderer.flipX = true;
         }
-        if (Input.GetKeyDown(KeyCode.D))
+        if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
         {
-            NewVelocity = Speed * Vector2.right;
+            NewVelocity = Speed * GameSpeedController.GameSpeed * Vector2.right;
             _spriteRenderer.flipX = false;
         }
         
