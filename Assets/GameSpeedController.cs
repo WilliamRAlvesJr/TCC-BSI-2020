@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class GameSpeedController : MonoBehaviour
 {
-    public static float GameSpeed = 0.5f;
+    public static float GameSpeed = 0.75f;
     
     private void Awake()
     {

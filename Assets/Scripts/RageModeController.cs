@@ -40,7 +40,7 @@ public class RageModeController : MonoBehaviour
         
         _audioSource.Play();
         _spriteRenderer.material = _outlineMaterial;
-        yield return new WaitForSeconds(4f);
+        yield return new WaitForSeconds(4f/GameSpeedController.GameSpeed);
         _spriteRenderer.material = _defaultSpriteMaterial;
         _audioSource.Stop();
         
