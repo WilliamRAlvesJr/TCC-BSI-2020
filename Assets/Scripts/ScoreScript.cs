@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -24,7 +25,12 @@ public class ScoreScript : MonoBehaviour
 
     private void Start()
     {
+        // only for webgl
+        defaultLetters = defaultLetters.Replace("\\n", " \\n");
+        //
+        
         defaultLetters = defaultLetters.Replace("\\n", Environment.NewLine);
+        
         Letters = defaultLetters;
         nextButton.SetActive(false);
         _endAudioSource = GetComponents<AudioSource>()[0];

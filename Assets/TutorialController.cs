@@ -18,10 +18,10 @@ public class TutorialController : MonoBehaviour
         _animator.SetTrigger("Start");
         
         yield return new WaitForSeconds(1f);
-        GetComponent<AudioSource>().Play();
+        GetComponent<AudioSource>()?.Play();
         pause.SetActive(true);
         
-        yield return new WaitForSeconds(0.7f);
+        yield return new WaitForSeconds(0.5f);
         _animator.SetTrigger("End");
         pause.SetActive(false);
     }

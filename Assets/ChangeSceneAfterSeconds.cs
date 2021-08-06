@@ -3,6 +3,9 @@ using UnityEngine;
 
 public class ChangeSceneAfterSeconds : MonoBehaviour
 {
+    [SerializeField]
+    private float secondsToChange = 52;
+
     private void Start()
     {
         StartCoroutine(ChangeScene());
@@ -10,7 +13,7 @@ public class ChangeSceneAfterSeconds : MonoBehaviour
 
     private IEnumerator ChangeScene()
     {
-        yield return new WaitForSeconds(52f);
+        yield return new WaitForSeconds(secondsToChange);
         NavigationManager.NavigateTo("MainMenu");
     }
 }
